@@ -4,7 +4,6 @@ public class Author {
     public String getAuthorName() {
         return this.authorName;
     }
-
     public void setAuthorName(String authorName) {
         this.authorName = authorName;
     }
